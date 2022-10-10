@@ -7,3 +7,4 @@ function favCity(cityName){
 favCity("Cairo")
 favCity("Medina")
 favCity("Boston")
+favCity("Toronto")

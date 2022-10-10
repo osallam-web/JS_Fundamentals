@@ -13,7 +13,7 @@ rl.question('Are you enjoying the course? Y for Yes and N for No ', function (an
   console.log(`${name}, is in the course and his answer is Yes`);
   }
   else {
-    console.log(`${name}, is in the course and he is not enjoying the course sadly :()`);
+    console.log(`${name}, is in the course and he is not enjoying the course sadly :(`);
   }
   rl.close();
 });
